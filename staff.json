@@ -1,0 +1,46 @@
+{
+  "staff": [
+    {
+      "id": "1",
+      "staff_id": "101",
+      "first_name": "Griffin",
+      "last_name": "Keyes",
+      "role": "zookeeper"
+    },
+    {
+      "id": "2",
+      "staff_id": "102",
+      "first_name": "Rosario",
+      "last_name": "Dawson",
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "staff_id": "103",
+      "first_name": "Bernie",
+      "last_name": "Gorilla",
+      "role": "veterinarian"
+    },
+    {
+      "id": "4",
+      "staff_id": "104",
+      "first_name": "Donald",
+      "last_name": "Monkey",
+      "role": "zookeeper"
+    },
+    {
+      "id": "5",
+      "staff_id": "105",
+      "first_name": "Jerome",
+      "last_name": "Grizzlybear",
+      "role": "veterinarian"
+    },
+    {
+      "id": "6",
+      "staff_id": "106",
+      "first_name": "Bruce",
+      "last_name": "Grizzlybear",
+      "role": "admin"
+    }
+  ]
+}

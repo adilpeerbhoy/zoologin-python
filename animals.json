@@ -1,0 +1,70 @@
+{
+  "animal": [
+    {
+      "id": "1",
+      "animal_id": "1",
+      "first_name": "Alex",
+      "type": "lion"
+    },
+    {
+      "id": "2",
+      "animal_id": "2",
+      "first_name": "Marty",
+      "type": "zebra"
+    },
+    {
+      "id": "3",
+      "animal_id": "3",
+      "first_name": "Gloria",
+      "type": "hippo"
+    },
+    {
+      "id": "4",
+      "animal_id": "4",
+      "first_name": "Melman",
+      "type": "giraffe"
+    },
+    {
+      "id": "5",
+      "animal_id": "5",
+      "first_name": "Skipper",
+      "type": "penguin"
+    },
+    {
+      "id": "6",
+      "animal_id": "6",
+      "first_name": "Kowalski",
+      "type": "penguin"
+    },
+    {
+      "id": "7",
+      "animal_id": "7",
+      "first_name": "Rico",
+      "type": "penguin"
+    },
+    {
+      "id": "8",
+      "animal_id": "8",
+      "first_name": "Private",
+      "type": "penguin"
+    },
+    {
+      "id": "9",
+      "animal_id": "9",
+      "first_name": "Julian",
+      "type": "lemur"
+    },
+    {
+      "id": "10",
+      "animal_id": "10",
+      "first_name": "Maurice",
+      "type": "lemur"
+    },
+    {
+      "id": "11",
+      "animal_id": "11",
+      "first_name": "Mort",
+      "type": "lemur"
+    }
+  ]
+}

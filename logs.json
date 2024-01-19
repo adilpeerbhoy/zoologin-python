@@ -1,0 +1,81 @@
+{
+  "log": [
+    {
+      "id": "1",
+      "animal_id": "1",
+      "food": "raw steak",
+      "habitat_condition": "good",
+      "welfare": "happy"
+    },
+    {
+      "id": "2",
+      "animal_id": "2",
+      "food": "grass bed",
+      "habitat_condition": "low on hay",
+      "welfare": "unsatisfied"
+    },
+    {
+      "id": "3",
+      "animal_id": "3",
+      "food": "fresh fruits",
+      "habitat_condition": "good",
+      "welfare": "happy"
+    },
+    {
+      "id": "4",
+      "animal_id": "4",
+      "food": "medicine",
+      "habitat_condition": "excellent",
+      "welfare": "anxious"
+    },
+    {
+      "id": "5",
+      "animal_id": "5",
+      "food": "fish",
+      "habitat_condition": "good",
+      "welfare": "restless"
+    },
+    {
+      "id": "6",
+      "animal_id": "6",
+      "food": "fish",
+      "habitat_condition": "good",
+      "welfare": "restless"
+    },
+    {
+      "id": "7",
+      "animal_id": "7",
+      "food": "fish",
+      "habitat_condition": "good",
+      "welfare": "restless"
+    },
+    {
+      "id": "8",
+      "animal_id": "8",
+      "food": "fish",
+      "habitat_condition": "good",
+      "welfare": "restless"
+    },
+    {
+      "id": "9",
+      "animal_id": "9",
+      "food": "fresh fruit",
+      "habitat_condition": "good",
+      "welfare": "content"
+    },
+    {
+      "id": "10",
+      "animal_id": "10",
+      "food": "fresh fruit",
+      "habitat_condition": "good",
+      "welfare": "tired"
+    },
+    {
+      "id": "11",
+      "animal_id": "11",
+      "food": "fresh fruit",
+      "habitat_condition": "good",
+      "welfare": "hyperactive"
+    }
+  ]
+}

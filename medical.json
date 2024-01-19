@@ -1,0 +1,180 @@
+{
+  "record": [
+    {
+      "id": "1",
+      "animal_id": "1",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "egoism",
+      "treatment": "none available",
+      "vaccination_log": [
+        "06/2020",
+        "10/2018",
+        "02/2017"
+      ]
+    },
+    {
+      "id": "2",
+      "animal_id": "2",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "naivety",
+      "treatment": "none available",
+      "vaccination_log": [
+        "03/2020",
+        "12/2019",
+        "04/2017"
+      ]
+    },
+    {
+      "id": "3",
+      "animal_id": "3",
+      "history": {
+        "gender": "female",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "none",
+      "treatment": "N/A",
+      "vaccination_log": [
+        "06/2019",
+        "11/2018",
+        "07/2017"
+      ]
+    },
+    {
+      "id": "4",
+      "animal_id": "4",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "many"
+      },
+      "illness": "paranoia",
+      "treatment": "none available",
+      "vaccination_log": [
+        "05/2020",
+        "4/2019",
+        "02/2018"
+      ]
+    },
+    {
+      "id": "5",
+      "animal_id": "5",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "N/A",
+      "treatment": "N/A",
+      "vaccination_log": [
+        "05/2020",
+        "04/2019",
+        "06/2018"
+      ]
+    },
+    {
+      "id": "6",
+      "animal_id": "6",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "N/A",
+      "treatment": "N/A",
+      "vaccination_log": [
+        "05/2020",
+        "04/2019",
+        "06/2018"
+      ]
+    },
+    {
+      "id": "7",
+      "animal_id": "7",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "N/A",
+      "treatment": "N/A",
+      "vaccination_log": [
+        "05/2020",
+        "04/2019",
+        "06/2018"
+      ]
+    },
+    {
+      "id": "8",
+      "animal_id": "8",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "N/A",
+      "treatment": "N/A",
+      "vaccination_log": [
+        "05/2020",
+        "04/2019",
+        "06/2018"
+      ]
+    },
+    {
+      "id": "9",
+      "animal_id": "9",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "egoism",
+      "treatment": "none available",
+      "vaccination_log": [
+        "08/2020",
+        "06/2018",
+        "01/2016"
+      ]
+    },
+    {
+      "id": "10",
+      "animal_id": "10",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "N/A",
+      "treatment": "N/A",
+      "vaccination_log": [
+        "12/2019",
+        "04/2018",
+        "06/2017"
+      ]
+    },
+    {
+      "id": "11",
+      "animal_id": "11",
+      "history": {
+        "gender": "male",
+        "health": "good",
+        "allergies": "none"
+      },
+      "illness": "N/A",
+      "treatment": "N/A",
+      "vaccination_log": [
+        "05/2020",
+        "04/2019",
+        "06/2018"
+      ]
+    }
+  ]
+}
